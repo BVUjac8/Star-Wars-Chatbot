@@ -25,8 +25,8 @@ A chatbot made in Python that features various data about the Star Wars universe
 Python & Pycharm should be downloaded from website, all others should be standardly included.
 ### Collaboration
 ***
-Collaborations on this project can be made to make the chatbot more efficient.
+Collaborations can be made to make the chatbot more efficient.
 ### FAQs
 ***
 1. **Why is a chatbot with various data about the Star Wars universe important to create?**
-_To understand how a chatbot works and implementing simple commands to learn about the Star Wars Universe._
+_To understand how a chatbot works and implementing simple commands to learn about the Star Wars universe._
